@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+:root {
+  font-family: 'Trebuchet MS', sans-serif;
+}
